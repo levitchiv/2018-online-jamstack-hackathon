@@ -501,7 +501,7 @@ Our team is split between front- and back-end development, creating and styling 
     - Vadim Levitchi (@levitchiv)
 * Seeking Teammates: No
 * [Project URL](https://github.com/levitchiv/FFC-Hackatron-03.11.18)
-* Lost and Found
+* Lost and Found - https://lost-and-found.netlify.com
 ### Project Q&A:
 1. What are you going to build?  
 // Once somebody wants to report a lost item, he or she can locate the place on the map along with a short comment and contact information.
