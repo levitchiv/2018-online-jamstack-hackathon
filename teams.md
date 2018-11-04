@@ -74,17 +74,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * **Project Name**: SunFoodApp
 
 ### Project Q&A:
-
-1. **What are you going to build?**
-We are going to build an app for helping seekers to find specific dish/food. The app will direct to the local restaurants that have the dish and mentions its price and offer the restaurant menu. Also show directions to the restaurant from the user current location.
-2. **Which APIs do you plan to use?**
+**1. What are you going to build?**
+We are going to build an app for helping seekers to find specific dish/food. The app will direct to the local restaurants that have the dish and mentions its price and offer the restaurant menu. Also show directions to the restaurant from the user current location.  
+**2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  **
 Fauna (for call the db and receive data), Clarify (to detect food image), Formspree (for collecting delivery address), Pilon (because it's interesting to try)
-3. **What is your plan to execute this idea?**
-  * Stage 1:
-    * create a gallery of food pictures 
-    * create a page to show food details 
-    * create a page to search food 
-    * create food database
+**3. What is your plan to execute this idea?  **
+Stage 1.
+* create a gallery of food pictures 
+* create a page to show food details 
+* create a page to search food 
+* create food database
 
 ***
 
@@ -489,6 +488,27 @@ We're planning on implementing a Fauna API.
 3. What is your plan to execute this idea?  
 Our team is split between front- and back-end development, creating and styling the app.
 
+
+***
+
+
+# Lost and Found
+### Our App is meant to connect the people who lost things in public space with the people who found them.
+* Teammates:
+    - Sebastian Radu (@sebi)
+    - Alex Scheaua (@Alex Scheaua)
+    - Ancuta Daniel (@danielancuta)
+    - Vadim Levitchi (@levitchiv)
+* Seeking Teammates: No
+* [Project URL](https://github.com/levitchiv/FFC-Hackatron-03.11.18)
+* Lost and Found
+### Project Q&A:
+1. What are you going to build?  
+// Once somebody wants to report a lost item, he or she can locate the place on the map along with a short comment and contact information.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// We plan to use Google Maps API, Formspree and Hasura.
+3. What is your plan to execute this idea?  
+// We have split the tasks and every member have its own functionality to implement. 
 
 ***
 
